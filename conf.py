@@ -72,8 +72,8 @@ html_theme = 'sphinx_rtd_theme'
 html_context = {
     'vcs_pageview_mode': 'edit',
     'display_github': True,
-    'github_user': 'mit-satori', # Username
-    'github_repo': 'getting-started', # Repo name
+    'github_user': 'mit-orcd', # Username
+    'github_repo': 'docs', # Repo name
     'github_version': 'master', # Version
     'conf_py_path': '/', # Path in the checkout to the docs root
 }
