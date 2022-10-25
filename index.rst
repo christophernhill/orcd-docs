@@ -1,2 +1,2 @@
-MIT Office of Research Computing and Data Handson Help Pages
-============================================================
+MIT Office of Research Computing and Data Hands On Help Pages
+=============================================================
